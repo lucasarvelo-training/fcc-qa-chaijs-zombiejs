@@ -1,2 +1,4 @@
-# fcc-qa-chaijs-zombiejs
-Introduction to Quality Assurance with Chai Challenges
+FCC Test Challengs Prototype 
+============================
+
+QA with mocha & chai
